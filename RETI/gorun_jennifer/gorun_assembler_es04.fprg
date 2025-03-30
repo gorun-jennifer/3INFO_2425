@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <flowgorithm fileversion="4.2">
     <attributes>
-        <attribute name="name" value="ramirez_assembler_es04"/>
+        <attribute name="name" value="gorun_assembler_es04"/>
         <attribute name="authors" value="root"/>
         <attribute name="about" value=""/>
         <attribute name="saved" value="2025-03-12 04:14:18 PM"/>
